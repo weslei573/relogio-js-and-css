@@ -1,6 +1,6 @@
 # relogio-js-and-css
-![Template relogio](https://github.com/weslei573/Portfolio-Website/blob/main/assets/project-1.png)
 
+ <img height="400rem" src="https://github.com/weslei573/Portfolio-Website/blob/main/assets/project-1.png"/>
 
 # Resumo do funcionamento do código:
 
