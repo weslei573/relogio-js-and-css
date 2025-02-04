@@ -1,7 +1,6 @@
 # relogio-js-and-css
+![Template relogio](https://github.com/weslei573/Portfolio-Website/blob/main/assets/project-1.png)
 
-Relogio em js e css
-02 - JS and CSS Clock
 
 # Resumo do funcionamento do código:
 
